@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'han'
+Han::CLI.start
